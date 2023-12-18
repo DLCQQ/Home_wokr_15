@@ -54,3 +54,9 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+'''
+Пример запуска кода             python archive.py --text "Пример текста" --number 42
+'''
