@@ -123,3 +123,9 @@ if __name__ == "__main__":
         print(f"Площадь прямоугольника: {rectangle.area()}")
     except ValueError:
         print("Ошибка: Ширина и высота должны быть целыми числами")
+
+
+
+'''
+Пример запуска кода:                     python rectangle.py 10 5
+'''

@@ -32,3 +32,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+'''
+Пример запуска кода:                     python mystr.py "Hello World" "John"
+'''
